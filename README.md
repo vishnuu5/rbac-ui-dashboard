@@ -137,6 +137,7 @@ Audit Logs: Add functionality to track changes in user roles and permissions.
 
 ## Screenshots
 Dashboard Overview; 
+![rbac-ui demo](https://github.com/user-attachments/assets/2908bae6-d1e0-4e12-828c-0221acb181a5)
 
 
 ## License
